@@ -1,0 +1,40 @@
+█ [ C:\xampp\htdocs\jicaHealth ] dir
+ Volume in drive C has no label.
+ Volume Serial Number is E412-5D39
+
+ Directory of C:\xampp\htdocs\jicaHealth
+
+22/09/2017  13:07    <DIR>          .
+22/09/2017  13:07    <DIR>          ..
+21/09/2017  15:54               381 .env
+24/07/2017  19:23               195 .env.example
+24/07/2017  19:23                61 .gitattributes
+24/07/2017  19:23                42 .gitignore
+24/07/2017  19:23               378 .travis.yml
+21/09/2017  14:57    <DIR>          app
+24/07/2017  19:23               752 app.json
+24/07/2017  19:23             1,646 artisan
+24/07/2017  19:23         2,588,838 AUD-20170712-WA0006.mp3
+24/07/2017  19:23         3,165,203 AUD-20170712-WA0007.mp3
+24/07/2017  19:23               534 bear_survey.json
+21/09/2017  14:43    <DIR>          bootstrap
+22/09/2017  12:40             1,292 composer.json
+22/09/2017  12:44           135,892 composer.lock
+21/09/2017  14:43    <DIR>          config
+21/09/2017  14:43    <DIR>          database
+24/07/2017  19:23            54,086 number-conf.png
+24/07/2017  19:23               899 phpunit.xml
+24/07/2017  19:23                42 Procfile
+21/09/2017  14:43    <DIR>          public
+24/07/2017  19:23             4,551 readme.md
+21/09/2017  14:43    <DIR>          resources
+24/07/2017  19:23               567 server.php
+21/09/2017  14:43    <DIR>          storage
+23/09/2017  14:09                 1 terminal.glue
+21/09/2017  14:43    <DIR>          tests
+22/09/2017  12:47    <DIR>          vendor
+24/07/2017  19:23            38,803 webhook-conf.png
+              19 File(s)      5,994,163 bytes
+              11 Dir(s)  55,775,952,896 bytes free
+
+ 
